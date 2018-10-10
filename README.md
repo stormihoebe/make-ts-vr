@@ -1,6 +1,10 @@
 ### Make Typescript VR
 This generator spins up the boilerplate to create scalable A-Frame components and systems using typescript powered by aframe-typescript-toolkit.
 
+With `make-ts-vr` It only takes a few seconds to get a VR project up and running.
+
+### Prerequisites
+[Yeoman](http://yeoman.io/): `npm install -g yo`
 
 ### Global installation
 $ `npm install -g generator-make-ts-vr`
