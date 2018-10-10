@@ -1,6 +1,6 @@
 # "<%= name %>"
 
-This is where I should describe the purpose of my A-Frame Component or System that I created using aframe-typescript-toolkit
+This is where I should describe the purpose of my A-Frame "<%= type %>" that I created using aframe-typescript-toolkit
 
 # Building the example
 

@@ -1,5 +1,5 @@
 {
-  "name": "aframe-typescript-toolkit-example",
+  "name": "<%= name %>",
   "version": "0.0.1",
   "main": "index.ts",
   "scripts": {
@@ -7,10 +7,6 @@
     "clean": "npm cache clear && rimraf -- dist",
     "test": "karma start",
     "serve": "http-server -o"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/olioapps/aframe-typescript-toolkit.git"
   },
   "license": "ISC",
   "devDependencies": {
