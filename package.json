@@ -1,7 +1,8 @@
 {
   "name": "generator-make-ts-vr",
-  "version": "0.1.0",
-  "description": "",
+  "author": "Stormi Hoebelheinrich (Olio Apps)",
+  "version": "0.0.1",
+  "description": "This generator spins up the boilerplate to create scalable A-Frame components and systems using typescript with the aframe-typescript-toolkit.",
   "files": [
     "generators"
   ],
