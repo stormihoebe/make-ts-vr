@@ -1,7 +1,7 @@
 {
   "name": "generator-make-ts-vr",
   "author": "Stormi Hoebelheinrich (Olio Apps)",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "This generator spins up the boilerplate to create scalable A-Frame components and systems using typescript with the aframe-typescript-toolkit.",
   "files": [
     "generators"
@@ -10,6 +10,7 @@
     "yeoman-generator"
   ],
   "dependencies": {
+    "yeoman-environment": "^2.3.3",
     "yeoman-generator": "^1.0.0"
   }
 }
